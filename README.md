@@ -18,7 +18,8 @@ Provide a dynamic analysis using slicers for customer type, product line, and ci
 🛠️ Tools & Technologies
 Power BI: Visualization and dashboard creation
 DAX (Data Analysis Expressions): Calculated columns and measures
-Power Query for Data Transformtion
+Power Query for Data Transformation
+
 📂 Dataset
 The dataset contains:
 
